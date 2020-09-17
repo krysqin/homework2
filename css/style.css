@@ -21,7 +21,7 @@ p{
 }
 
 div{
-    height: 150px;
+    min-height: 150px;
     padding: 25px;
 }
 
@@ -32,32 +32,32 @@ img {
     height: auto
   }
 
-div#blue{
+#blue{
     background-color: #000FFF;
     text-align:left;
 }
 
-div#red{
+#red{
     background-color: #FF0000;
     text-align:right;
 }
 
 
-div#yellow{
+#yellow{
     background-color:#FFFF00;
     text-align: right;
 }
 
-div#yellow h2{
+#yellow h2{
     color: #000000;
     text-shadow:4px 4px 2px #c7e2c7;
 }
 
-div#yellow p{
+#yellow p{
     color: #000000;
 }
 
-div#green{
+#green{
     background-color:#008000;
     text-align:left
 }
